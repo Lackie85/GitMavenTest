@@ -21,7 +21,7 @@ public class HomePageTest_6_15_19 {
 		  Home_page_maven_6_15_2019 home=new Home_page_maven_6_15_2019(driver);
 		  home.enterEmail("search");
 		  home.password("password");
-		  
+		  //i added some changes here
 		  home.clickbutton();
 	  }
 	  @BeforeClass
