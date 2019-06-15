@@ -22,6 +22,7 @@ public class HomePageTest_6_15_19 {
 		  home.enterEmail("search");
 		  home.password("password");
 		//what happened
+		  //one more change
 		  home.clickbutton();
 	  }
 	  @BeforeClass
